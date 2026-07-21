@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://jlats116-jpg.github.io/resumegap-site/sitemap.xml
+Sitemap: https://rezgap.com/sitemap.xml
